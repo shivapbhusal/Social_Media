@@ -25,3 +25,6 @@
 * Feel Free to edit and publish the webpages. 
 * First update: Copy the list of old committee to archive and update that with the list of new committee. 
 
+## Organization Documents 
+* All the files documents related to the organization shall be stored in Google drive of the organization.  
+
