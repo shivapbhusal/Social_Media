@@ -1,4 +1,4 @@
-# Nepal Students' Association - Virtual Accounts Handover ChecKlist 
+# Nepal Students' Association - Virtual Accounts Handover CheckList 
 
 ## Facebook 
 * Follow the Page Link. https://www.facebook.com/BGSU.Nepal/
