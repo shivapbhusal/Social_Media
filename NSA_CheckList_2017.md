@@ -24,3 +24,4 @@
 * Go to More>>Website. 
 * Feel Free to edit and publish the webpages. 
 * First update: Copy the list of old committee to archive and update that with the list of new committee. 
+
