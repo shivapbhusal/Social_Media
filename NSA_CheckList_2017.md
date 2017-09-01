@@ -4,7 +4,7 @@
 * Follow the Page Link. https://www.facebook.com/BGSU.Nepal/
 * Get the admin rights from the communication coordinator of preceding committee. 
 * On the Facebook page, Go to Settings >>Page Roles. Remove the previous admins from the list. 
-* Make sure that you keep your followers regularly engaged with your posts. 
+* Make sure you keep your followers regularly engaged with your posts. 
 
 ## GMAIL
 * Nepal Students' Association's gmail ID is nsabgsu@gmail.com. Please get the password of this account from communication coordinator of the preceding committe. 
