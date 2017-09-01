@@ -3,7 +3,7 @@
 ## Facebook 
 * Follow the Page Link. https://www.facebook.com/BGSU.Nepal/
 * Get the admin rights from the communication coordinator of preceding committe. 
-* Go to Settings >>Page Roles. Remove the previous admins from the list. 
+* On the Facebook page, Go to Settings >>Page Roles. Remove the previous admins from the list. 
 * Make sure that you keep your followers regularly engaged with your posts. 
 
 ## Youtube 
