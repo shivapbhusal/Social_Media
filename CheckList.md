@@ -17,4 +17,10 @@
 * Login using NSA Gmail credentials
 * Feel free to upload and share videos. 
 
-## OrgSync Website 
+## OrgSync Website
+* Follow this link and go to BGSU orgSync page. https://orgsync.com/login/bowling-green-state-university
+* Sign in using your BGSU credentials. 
+* Click "Organizations". Search "Nepal Students' Association" or just "Nepal". 
+* Go to More>>Website. 
+* Feel Free to edit and publish the webpages. 
+* First update: Copy the list of old committee to archive and update that with the list of new committee. 
