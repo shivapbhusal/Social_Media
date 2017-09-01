@@ -1,1 +1,1 @@
-# This repository consists of all my findings related to social media. 
+Things I have learnt. Things I am learning. Stuffs related to social media and virtual presence. 
