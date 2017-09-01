@@ -8,7 +8,8 @@
 
 ## GMAIL
 * Nepal Students' Association's gmail ID is nsabgsu@gmail.com. Please get the password of this account from communication coordinator of the preceding committe. 
-* Login using NSA Gmail credentials. 
+* Change the password of the gmail account. 
+* Login using new NSA Gmail credentials. 
 * Click Gmail profile icon on top right corner. Go to MyAccount>>Your Personal Info. Edit the recovery phone number and recovery gmail    address. Usually, phone number and personal gmail address of the current communication coordinator remain the options through which existing account can be recovered. 
 
 ## Youtube
