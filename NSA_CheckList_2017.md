@@ -3,7 +3,7 @@
 ## Facebook 
 * Follow the Page Link. https://www.facebook.com/BGSU.Nepal/
 * Get the admin rights from the communication coordinator of preceding committee. 
-* On the Facebook page, Go to Settings >>Page Roles. 
+* On the Facebook page, Go to Settings >>Page Roles. Find the list of admins. 
 * Request the previous admins to resign from the role of admin. 
 * Make sure you keep your followers regularly engaged with your posts. 
 
