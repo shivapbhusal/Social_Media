@@ -27,5 +27,5 @@
 * First update: Copy the list of old committee to archive and update that with the list of new committee. 
 
 ## Documents and Files 
-* All the files documents related to the organization shall be stored in organization's Google Drive.   
+* All the files and documents related to the organization shall be stored in organization's Google Drive.   
 
