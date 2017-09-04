@@ -24,6 +24,7 @@
 * Click "Organizations". Search "Nepal Students' Association" or just "Nepal". 
 * Go to More>>Website. 
 * Feel Free to edit and publish the webpages. 
+* Please note : The left and right widgets of the page have been based on the Template Elements. 
 * First update: Copy the list of old committee to archive and update that with the list of new committee. 
 
 ## Documents and Files 
